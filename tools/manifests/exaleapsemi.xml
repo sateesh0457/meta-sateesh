@@ -5,7 +5,7 @@
   <remote name="sateesh0457" fetch="https://github.com/sateesh0457/meta-sateesh" />
   <default remote="openembedded" revision="master" />
 
-<project name="meta-sateesh" remote="sateesh0457" path="meta-sateesh" revision="1bc04bf8a57f700e25d247629fed66b1a406d09c" />
+<project name="meta-sateesh" remote="sateesh0457" path="meta-sateesh" revision="57681122dbd1673c4a384d1962729580496321c1" />
 <project name="openembedded-core" remote="openembedded" path="openembedded-core" revision="38e3d5bd3d05ed00a2fc55e3729cb8a6d4e4132f" />
 <project name="bitbake" remote="openembedded" path="openembedded-core/bitbake" revision="9a5dd1be63395c76d3fac2c3c7ba6557fe47b442" />
 
