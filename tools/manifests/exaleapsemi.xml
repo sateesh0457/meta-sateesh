@@ -2,7 +2,7 @@
 
 <manifest>
   <remote name="openembedded" fetch="git://github.com/openembedded/" />
-  <remote name="sateesh0457" fetch="https://github.com/sateesh0457/meta-sateesh.git" />
+  <remote name="sateesh0457" fetch="https://github.com/sateesh0457/meta-sateesh" />
   <default remote="openembedded" revision="master" />
 
 <project name="meta-sateesh" remote="sateesh0457" path="meta-sateesh" revision="27535d079006a6fa08431b203a0b29895a21f2f9" />
